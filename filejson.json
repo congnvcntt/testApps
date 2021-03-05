@@ -1,0 +1,14 @@
+{
+    "ten":"NGuyen Cong",
+    "diachi":"Trung An",
+    "diems":[
+        {
+            "ten":"van",
+            "diem":"5"
+        },
+        {
+            "ten":"toan",
+            "diem":"7"
+        }
+    ]
+}
